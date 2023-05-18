@@ -1,0 +1,20 @@
+.herocontainer{
+      display: flex;
+      justify-content: space-around;
+     
+}
+.mandiv{
+    width: 35vw;
+}
+.womendiv{
+    width:35vw;
+}
+.btndiv{
+    text-align: center;
+}
+.btndiv button:hover{
+    background-color: rgb(61, 137, 231);
+    color: white;
+    border: none;
+    cursor: pointer;
+}
